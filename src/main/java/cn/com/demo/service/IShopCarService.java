@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author hj
- * @time 2019年7月30日下午2:51:17 state：
+ * @time 
  */
 public interface IShopCarService {
 	public void addShop(int spId, int count);
